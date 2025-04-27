@@ -1,5 +1,6 @@
 import idc
 import idaapi
+import ida_kernwin
 import os
 import json
 import git_sync
@@ -17,10 +18,10 @@ def choose_file():
     if not files:
         print("[!] No annotation files found in 'annotations' folder.")
         return None
-    # Sort to list chronologically
     files.sort()
-    # AskStr can be used or simple Qt select
-    choice = idc.AskStr(files[-1], "Select annotation file to import (use exact name):")
+    # Use ida_kernwin.ask_str instead of deprecated idc.AskStr
+    prompt = "Select annotation file to import (use exact name):"
+    choice = ida_kernwin.ask_str(files[-1], 0, prompt)
     if not choice or choice not in files:
         print(f"[!] Invalid selection: {choice}")
         return None
@@ -35,15 +36,18 @@ def apply_annotations(path):
         ea = it['ea']
         val = it['value']
         if it['type'] == 'func_name':
-            # Rename function
             idc.set_name(ea, val, idc.SN_CHECK)
         elif it['type'] == 'comment':
-            # Regular comment
             idc.set_cmt(ea, val, False)
         elif it['type'] == 'repeatable_comment':
-            # Repeatable comment
             idc.set_cmt(ea, val, True)
     print(f"[+] Imported annotations from: {path}")
+
+
+if __name__ == '__main__':
+    f = choose_file()
+    if f:
+        apply_annotations(f)
 
 
 git_sync.git_pull()
