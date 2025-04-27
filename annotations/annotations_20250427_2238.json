@@ -1,0 +1,3705 @@
+{
+  "functions": [
+    {
+      "ea": 4198400,
+      "name": "sub_401000",
+      "comment": ""
+    },
+    {
+      "ea": 4198500,
+      "name": "ExecuteProcessWithTimeout",
+      "comment": ""
+    },
+    {
+      "ea": 4198653,
+      "name": "conf11_4010FD",
+      "comment": ""
+    },
+    {
+      "ea": 4198949,
+      "name": "sub_401225",
+      "comment": ""
+    },
+    {
+      "ea": 4199165,
+      "name": "sub_4012FD",
+      "comment": ""
+    },
+    {
+      "ea": 4199262,
+      "name": "sub_40135E",
+      "comment": ""
+    },
+    {
+      "ea": 4199290,
+      "name": "sub_40137A",
+      "comment": ""
+    },
+    {
+      "ea": 4199374,
+      "name": "sub_4013CE",
+      "comment": ""
+    },
+    {
+      "ea": 4199479,
+      "name": "sub_401437",
+      "comment": ""
+    },
+    {
+      "ea": 4199590,
+      "name": "sub_4014A6",
+      "comment": ""
+    },
+    {
+      "ea": 4200202,
+      "name": "sub_40170A",
+      "comment": ""
+    },
+    {
+      "ea": 4200413,
+      "name": "sub_4017DD",
+      "comment": ""
+    },
+    {
+      "ea": 4200447,
+      "name": "sub_4017FF",
+      "comment": ""
+    },
+    {
+      "ea": 4200475,
+      "name": "sub_40181B",
+      "comment": ""
+    },
+    {
+      "ea": 4200492,
+      "name": "sub_40182C",
+      "comment": ""
+    },
+    {
+      "ea": 4200545,
+      "name": "sub_401861",
+      "comment": ""
+    },
+    {
+      "ea": 4200633,
+      "name": "sub_4018B9",
+      "comment": ""
+    },
+    {
+      "ea": 4200697,
+      "name": "sub_4018F9",
+      "comment": ""
+    },
+    {
+      "ea": 4200929,
+      "name": "sub_4019E1",
+      "comment": ""
+    },
+    {
+      "ea": 4201029,
+      "name": "sub_401A45",
+      "comment": ""
+    },
+    {
+      "ea": 4201206,
+      "name": "sub_401AF6",
+      "comment": ""
+    },
+    {
+      "ea": 4201311,
+      "name": "sub_401B5F",
+      "comment": ""
+    },
+    {
+      "ea": 4201704,
+      "name": "sub_401CE8",
+      "comment": ""
+    },
+    {
+      "ea": 4201899,
+      "name": "aaaa_401DAB",
+      "comment": ""
+    },
+    {
+      "ea": 4202142,
+      "name": "bbbb_401E9E",
+      "comment": ""
+    },
+    {
+      "ea": 4202239,
+      "name": "sub_401EFF",
+      "comment": ""
+    },
+    {
+      "ea": 4202333,
+      "name": "sub_401F5D",
+      "comment": ""
+    },
+    {
+      "ea": 4202471,
+      "name": "_WinMain@16",
+      "comment": ""
+    },
+    {
+      "ea": 4202862,
+      "name": "sub_40216E",
+      "comment": ""
+    },
+    {
+      "ea": 4202885,
+      "name": "sub_402185",
+      "comment": ""
+    },
+    {
+      "ea": 4202915,
+      "name": "__beep",
+      "comment": ""
+    },
+    {
+      "ea": 4202941,
+      "name": "sub_4021BD",
+      "comment": ""
+    },
+    {
+      "ea": 4202985,
+      "name": "sub_4021E9",
+      "comment": ""
+    },
+    {
+      "ea": 4203607,
+      "name": "sub_402457",
+      "comment": ""
+    },
+    {
+      "ea": 4203632,
+      "name": "sub_402470",
+      "comment": ""
+    },
+    {
+      "ea": 4203851,
+      "name": "sub_40254B",
+      "comment": ""
+    },
+    {
+      "ea": 4204111,
+      "name": "sub_40264F",
+      "comment": ""
+    },
+    {
+      "ea": 4204155,
+      "name": "sub_40267B",
+      "comment": ""
+    },
+    {
+      "ea": 4204317,
+      "name": "sub_40271D",
+      "comment": ""
+    },
+    {
+      "ea": 4204376,
+      "name": "sub_402758",
+      "comment": ""
+    },
+    {
+      "ea": 4204511,
+      "name": "sub_4027DF",
+      "comment": ""
+    },
+    {
+      "ea": 4204836,
+      "name": "sub_402924",
+      "comment": ""
+    },
+    {
+      "ea": 4205004,
+      "name": "sub_4029CC",
+      "comment": ""
+    },
+    {
+      "ea": 4205126,
+      "name": "sub_402A46",
+      "comment": ""
+    },
+    {
+      "ea": 4205139,
+      "name": "sub_402A53",
+      "comment": ""
+    },
+    {
+      "ea": 4205167,
+      "name": "sub_402A6F",
+      "comment": ""
+    },
+    {
+      "ea": 4205174,
+      "name": "sub_402A76",
+      "comment": ""
+    },
+    {
+      "ea": 4206206,
+      "name": "sub_402E7E",
+      "comment": ""
+    },
+    {
+      "ea": 4207036,
+      "name": "sub_4031BC",
+      "comment": ""
+    },
+    {
+      "ea": 4207887,
+      "name": "sub_40350F",
+      "comment": ""
+    },
+    {
+      "ea": 4208535,
+      "name": "sub_403797",
+      "comment": ""
+    },
+    {
+      "ea": 4209192,
+      "name": "sub_403A28",
+      "comment": ""
+    },
+    {
+      "ea": 4209271,
+      "name": "sub_403A77",
+      "comment": ""
+    },
+    {
+      "ea": 4209622,
+      "name": "sub_403BD6",
+      "comment": ""
+    },
+    {
+      "ea": 4209864,
+      "name": "sub_403CC8",
+      "comment": ""
+    },
+    {
+      "ea": 4209916,
+      "name": "sub_403CFC",
+      "comment": ""
+    },
+    {
+      "ea": 4211375,
+      "name": "sub_4042AF",
+      "comment": ""
+    },
+    {
+      "ea": 4211392,
+      "name": "sub_4042C0",
+      "comment": ""
+    },
+    {
+      "ea": 4211499,
+      "name": "sub_40432B",
+      "comment": ""
+    },
+    {
+      "ea": 4211638,
+      "name": "sub_4043B6",
+      "comment": ""
+    },
+    {
+      "ea": 4213733,
+      "name": "sub_404BE5",
+      "comment": ""
+    },
+    {
+      "ea": 4213785,
+      "name": "sub_404C19",
+      "comment": ""
+    },
+    {
+      "ea": 4214688,
+      "name": "sub_404FA0",
+      "comment": ""
+    },
+    {
+      "ea": 4214815,
+      "name": "sub_40501F",
+      "comment": ""
+    },
+    {
+      "ea": 4215074,
+      "name": "sub_405122",
+      "comment": ""
+    },
+    {
+      "ea": 4215117,
+      "name": "sub_40514D",
+      "comment": ""
+    },
+    {
+      "ea": 4215839,
+      "name": "sub_40541F",
+      "comment": ""
+    },
+    {
+      "ea": 4216117,
+      "name": "sub_405535",
+      "comment": ""
+    },
+    {
+      "ea": 4216200,
+      "name": "sub_405588",
+      "comment": ""
+    },
+    {
+      "ea": 4216227,
+      "name": "sub_4055A3",
+      "comment": ""
+    },
+    {
+      "ea": 4216260,
+      "name": "sub_4055C4",
+      "comment": ""
+    },
+    {
+      "ea": 4216541,
+      "name": "sub_4056DD",
+      "comment": ""
+    },
+    {
+      "ea": 4216558,
+      "name": "sub_4056EE",
+      "comment": ""
+    },
+    {
+      "ea": 4216570,
+      "name": "sub_4056FA",
+      "comment": ""
+    },
+    {
+      "ea": 4216633,
+      "name": "sub_405739",
+      "comment": ""
+    },
+    {
+      "ea": 4216695,
+      "name": "sub_405777",
+      "comment": ""
+    },
+    {
+      "ea": 4216892,
+      "name": "sub_40583C",
+      "comment": ""
+    },
+    {
+      "ea": 4217774,
+      "name": "sub_405BAE",
+      "comment": ""
+    },
+    {
+      "ea": 4218015,
+      "name": "sub_405C9F",
+      "comment": ""
+    },
+    {
+      "ea": 4218055,
+      "name": "sub_405CC7",
+      "comment": ""
+    },
+    {
+      "ea": 4218077,
+      "name": "sub_405CDD",
+      "comment": ""
+    },
+    {
+      "ea": 4218126,
+      "name": "sub_405D0E",
+      "comment": ""
+    },
+    {
+      "ea": 4218250,
+      "name": "sub_405D8A",
+      "comment": ""
+    },
+    {
+      "ea": 4218351,
+      "name": "sub_405DEF",
+      "comment": ""
+    },
+    {
+      "ea": 4218407,
+      "name": "sub_405E27",
+      "comment": ""
+    },
+    {
+      "ea": 4218475,
+      "name": "sub_405E6B",
+      "comment": ""
+    },
+    {
+      "ea": 4218591,
+      "name": "sub_405EDF",
+      "comment": ""
+    },
+    {
+      "ea": 4218850,
+      "name": "sub_405FE2",
+      "comment": ""
+    },
+    {
+      "ea": 4219234,
+      "name": "sub_406162",
+      "comment": ""
+    },
+    {
+      "ea": 4219281,
+      "name": "sub_406191",
+      "comment": ""
+    },
+    {
+      "ea": 4219360,
+      "name": "sub_4061E0",
+      "comment": ""
+    },
+    {
+      "ea": 4220091,
+      "name": "sub_4064BB",
+      "comment": ""
+    },
+    {
+      "ea": 4220130,
+      "name": "sub_4064E2",
+      "comment": ""
+    },
+    {
+      "ea": 4220192,
+      "name": "sub_406520",
+      "comment": ""
+    },
+    {
+      "ea": 4220282,
+      "name": "sub_40657A",
+      "comment": ""
+    },
+    {
+      "ea": 4220701,
+      "name": "sub_40671D",
+      "comment": ""
+    },
+    {
+      "ea": 4221056,
+      "name": "sub_406880",
+      "comment": ""
+    },
+    {
+      "ea": 4221591,
+      "name": "sub_406A97",
+      "comment": ""
+    },
+    {
+      "ea": 4221698,
+      "name": "sub_406B02",
+      "comment": ""
+    },
+    {
+      "ea": 4221731,
+      "name": "sub_406B23",
+      "comment": ""
+    },
+    {
+      "ea": 4221838,
+      "name": "sub_406B8E",
+      "comment": ""
+    },
+    {
+      "ea": 4222016,
+      "name": "sub_406C40",
+      "comment": ""
+    },
+    {
+      "ea": 4223088,
+      "name": "sub_407070",
+      "comment": ""
+    },
+    {
+      "ea": 4223286,
+      "name": "sub_407136",
+      "comment": ""
+    },
+    {
+      "ea": 4224123,
+      "name": "sub_40747B",
+      "comment": ""
+    },
+    {
+      "ea": 4224164,
+      "name": "sub_4074A4",
+      "comment": ""
+    },
+    {
+      "ea": 4224295,
+      "name": "sub_407527",
+      "comment": ""
+    },
+    {
+      "ea": 4224370,
+      "name": "sub_407572",
+      "comment": ""
+    },
+    {
+      "ea": 4224429,
+      "name": "sub_4075AD",
+      "comment": ""
+    },
+    {
+      "ea": 4224452,
+      "name": "sub_4075C4",
+      "comment": ""
+    },
+    {
+      "ea": 4224515,
+      "name": "sub_407603",
+      "comment": ""
+    },
+    {
+      "ea": 4224573,
+      "name": "sub_40763D",
+      "comment": ""
+    },
+    {
+      "ea": 4224598,
+      "name": "sub_407656",
+      "comment": ""
+    },
+    {
+      "ea": 4224680,
+      "name": "strcpy",
+      "comment": ""
+    },
+    {
+      "ea": 4224686,
+      "name": "memset",
+      "comment": ""
+    },
+    {
+      "ea": 4224692,
+      "name": "strlen",
+      "comment": ""
+    },
+    {
+      "ea": 4224704,
+      "name": "__CxxFrameHandler",
+      "comment": ""
+    },
+    {
+      "ea": 4224712,
+      "name": "__EH_prolog",
+      "comment": ""
+    },
+    {
+      "ea": 4224744,
+      "name": "??3@YAXPAX@Z",
+      "comment": ""
+    },
+    {
+      "ea": 4224750,
+      "name": "memcmp",
+      "comment": ""
+    },
+    {
+      "ea": 4224756,
+      "name": "_except_handler3",
+      "comment": ""
+    },
+    {
+      "ea": 4224762,
+      "name": "_local_unwind2",
+      "comment": ""
+    },
+    {
+      "ea": 4224768,
+      "name": "??2@YAPAXI@Z",
+      "comment": ""
+    },
+    {
+      "ea": 4224774,
+      "name": "memcpy",
+      "comment": ""
+    },
+    {
+      "ea": 4224832,
+      "name": "strcmp",
+      "comment": ""
+    },
+    {
+      "ea": 4224838,
+      "name": "??0exception@@QAE@ABV0@@Z",
+      "comment": ""
+    },
+    {
+      "ea": 4224844,
+      "name": "??_Gtype_info@@UAEPAXI@Z",
+      "comment": ""
+    },
+    {
+      "ea": 4224872,
+      "name": "??1exception@@UAE@XZ",
+      "comment": ""
+    },
+    {
+      "ea": 4224878,
+      "name": "_CxxThrowException",
+      "comment": ""
+    },
+    {
+      "ea": 4224896,
+      "name": "__allmul",
+      "comment": ""
+    },
+    {
+      "ea": 4224948,
+      "name": "strcat",
+      "comment": ""
+    },
+    {
+      "ea": 4224954,
+      "name": "start",
+      "comment": ""
+    },
+    {
+      "ea": 4225304,
+      "name": "??1type_info@@UAE@XZ",
+      "comment": ""
+    },
+    {
+      "ea": 4225310,
+      "name": "_XcptFilter",
+      "comment": ""
+    },
+    {
+      "ea": 4225316,
+      "name": "_initterm",
+      "comment": ""
+    },
+    {
+      "ea": 4225322,
+      "name": "__setdefaultprecision",
+      "comment": ""
+    },
+    {
+      "ea": 4225340,
+      "name": "UserMathErrorFunction",
+      "comment": ""
+    },
+    {
+      "ea": 4225343,
+      "name": "nullsub_1",
+      "comment": ""
+    },
+    {
+      "ea": 4225344,
+      "name": "_controlfp",
+      "comment": ""
+    }
+  ],
+  "comments": [
+    {
+      "ea": 4198449,
+      "comment": "Stream"
+    },
+    {
+      "ea": 4198450,
+      "comment": "ElementCount"
+    },
+    {
+      "ea": 4198452,
+      "comment": "ElementSize"
+    },
+    {
+      "ea": 4198457,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4198487,
+      "comment": "Stream"
+    },
+    {
+      "ea": 4198546,
+      "comment": "lpProcessInformation"
+    },
+    {
+      "ea": 4198550,
+      "comment": "lpStartupInfo"
+    },
+    {
+      "ea": 4198551,
+      "comment": "lpCurrentDirectory"
+    },
+    {
+      "ea": 4198552,
+      "comment": "lpEnvironment"
+    },
+    {
+      "ea": 4198553,
+      "comment": "dwCreationFlags"
+    },
+    {
+      "ea": 4198558,
+      "comment": "bInheritHandles"
+    },
+    {
+      "ea": 4198559,
+      "comment": "lpThreadAttributes"
+    },
+    {
+      "ea": 4198560,
+      "comment": "lpProcessAttributes"
+    },
+    {
+      "ea": 4198564,
+      "comment": "lpCommandLine"
+    },
+    {
+      "ea": 4198567,
+      "comment": "lpApplicationName"
+    },
+    {
+      "ea": 4198583,
+      "comment": "dwMilliseconds"
+    },
+    {
+      "ea": 4198586,
+      "comment": "hHandle"
+    },
+    {
+      "ea": 4198599,
+      "comment": "uExitCode"
+    },
+    {
+      "ea": 4198601,
+      "comment": "hProcess"
+    },
+    {
+      "ea": 4198615,
+      "comment": "lpExitCode"
+    },
+    {
+      "ea": 4198618,
+      "comment": "hProcess"
+    },
+    {
+      "ea": 4198627,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4198638,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4198730,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4198756,
+      "comment": "phkResult"
+    },
+    {
+      "ea": 4198763,
+      "comment": "lpSubKey"
+    },
+    {
+      "ea": 4198773,
+      "comment": "hKey"
+    },
+    {
+      "ea": 4198804,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4198805,
+      "comment": "nBufferLength"
+    },
+    {
+      "ea": 4198822,
+      "comment": "Str"
+    },
+    {
+      "ea": 4198830,
+      "comment": "cbData"
+    },
+    {
+      "ea": 4198837,
+      "comment": "lpData"
+    },
+    {
+      "ea": 4198838,
+      "comment": "dwType"
+    },
+    {
+      "ea": 4198840,
+      "comment": "Reserved"
+    },
+    {
+      "ea": 4198841,
+      "comment": "lpValueName"
+    },
+    {
+      "ea": 4198842,
+      "comment": "hKey"
+    },
+    {
+      "ea": 4198870,
+      "comment": "lpcbData"
+    },
+    {
+      "ea": 4198877,
+      "comment": "lpData"
+    },
+    {
+      "ea": 4198878,
+      "comment": "lpType"
+    },
+    {
+      "ea": 4198879,
+      "comment": "lpReserved"
+    },
+    {
+      "ea": 4198880,
+      "comment": "lpValueName"
+    },
+    {
+      "ea": 4198881,
+      "comment": "hKey"
+    },
+    {
+      "ea": 4198905,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4198912,
+      "comment": "hKey"
+    },
+    {
+      "ea": 4198999,
+      "comment": "nSize"
+    },
+    {
+      "ea": 4199006,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199032,
+      "comment": "String"
+    },
+    {
+      "ea": 4199062,
+      "comment": "String"
+    },
+    {
+      "ea": 4199072,
+      "comment": "Seed"
+    },
+    {
+      "ea": 4199277,
+      "comment": "void *"
+    },
+    {
+      "ea": 4199425,
+      "comment": "hMem"
+    },
+    {
+      "ea": 4199457,
+      "comment": "hMem"
+    },
+    {
+      "ea": 4199484,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4199508,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4199522,
+      "comment": "dwBytes"
+    },
+    {
+      "ea": 4199523,
+      "comment": "uFlags"
+    },
+    {
+      "ea": 4199542,
+      "comment": "dwBytes"
+    },
+    {
+      "ea": 4199543,
+      "comment": "uFlags"
+    },
+    {
+      "ea": 4199678,
+      "comment": "hTemplateFile"
+    },
+    {
+      "ea": 4199679,
+      "comment": "dwFlagsAndAttributes"
+    },
+    {
+      "ea": 4199680,
+      "comment": "dwCreationDisposition"
+    },
+    {
+      "ea": 4199682,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4199683,
+      "comment": "dwShareMode"
+    },
+    {
+      "ea": 4199685,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4199690,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4199719,
+      "comment": "lpFileSize"
+    },
+    {
+      "ea": 4199720,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199751,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4199755,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4199756,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4199764,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199765,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199780,
+      "comment": "Size"
+    },
+    {
+      "ea": 4199793,
+      "comment": "Buf1"
+    },
+    {
+      "ea": 4199810,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4199814,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4199815,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4199823,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199824,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199856,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4199860,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4199861,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4199862,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199868,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199883,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4199887,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4199888,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4199896,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199897,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199912,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4199916,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4199917,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4199925,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4199926,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4199974,
+      "comment": "int"
+    },
+    {
+      "ea": 4199981,
+      "comment": "void *"
+    },
+    {
+      "ea": 4199982,
+      "comment": "Size"
+    },
+    {
+      "ea": 4199988,
+      "comment": "Src"
+    },
+    {
+      "ea": 4200013,
+      "comment": "Size"
+    },
+    {
+      "ea": 4200015,
+      "comment": "int"
+    },
+    {
+      "ea": 4200018,
+      "comment": "Src"
+    },
+    {
+      "ea": 4200030,
+      "comment": "int"
+    },
+    {
+      "ea": 4200038,
+      "comment": "dwBytes"
+    },
+    {
+      "ea": 4200044,
+      "comment": "uFlags"
+    },
+    {
+      "ea": 4200058,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4200062,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4200063,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4200066,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4200072,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4200113,
+      "comment": "int"
+    },
+    {
+      "ea": 4200115,
+      "comment": "int"
+    },
+    {
+      "ea": 4200119,
+      "comment": "int"
+    },
+    {
+      "ea": 4200120,
+      "comment": "Src"
+    },
+    {
+      "ea": 4200264,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200272,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200285,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200298,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200311,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200324,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200337,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4200430,
+      "comment": "lpCriticalSection"
+    },
+    {
+      "ea": 4200462,
+      "comment": "void *"
+    },
+    {
+      "ea": 4200484,
+      "comment": "lpCriticalSection"
+    },
+    {
+      "ea": 4200592,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4200599,
+      "comment": "int"
+    },
+    {
+      "ea": 4200600,
+      "comment": "int"
+    },
+    {
+      "ea": 4200679,
+      "comment": "dwFlags"
+    },
+    {
+      "ea": 4200681,
+      "comment": "hProv"
+    },
+    {
+      "ea": 4200747,
+      "comment": "hTemplateFile"
+    },
+    {
+      "ea": 4200748,
+      "comment": "dwFlagsAndAttributes"
+    },
+    {
+      "ea": 4200749,
+      "comment": "dwCreationDisposition"
+    },
+    {
+      "ea": 4200751,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4200752,
+      "comment": "dwShareMode"
+    },
+    {
+      "ea": 4200754,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4200759,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4200776,
+      "comment": "lpFileSizeHigh"
+    },
+    {
+      "ea": 4200777,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4200802,
+      "comment": "dwBytes"
+    },
+    {
+      "ea": 4200803,
+      "comment": "uFlags"
+    },
+    {
+      "ea": 4200819,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4200823,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4200824,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4200825,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4200826,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4200887,
+      "comment": "hMem"
+    },
+    {
+      "ea": 4200902,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4200945,
+      "comment": "lpCriticalSection"
+    },
+    {
+      "ea": 4200976,
+      "comment": "lpCriticalSection"
+    },
+    {
+      "ea": 4200995,
+      "comment": "Size"
+    },
+    {
+      "ea": 4200998,
+      "comment": "Src"
+    },
+    {
+      "ea": 4201001,
+      "comment": "void *"
+    },
+    {
+      "ea": 4201078,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201086,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201099,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201112,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201125,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201138,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201218,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4201220,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201225,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201243,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4201245,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201248,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201259,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201268,
+      "comment": "dwFileAttributes"
+    },
+    {
+      "ea": 4201269,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201283,
+      "comment": "Format"
+    },
+    {
+      "ea": 4201291,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201394,
+      "comment": "cchWideChar"
+    },
+    {
+      "ea": 4201406,
+      "comment": "lpWideCharStr"
+    },
+    {
+      "ea": 4201407,
+      "comment": "cbMultiByte"
+    },
+    {
+      "ea": 4201409,
+      "comment": "lpMultiByteStr"
+    },
+    {
+      "ea": 4201414,
+      "comment": "dwFlags"
+    },
+    {
+      "ea": 4201416,
+      "comment": "CodePage"
+    },
+    {
+      "ea": 4201435,
+      "comment": "uSize"
+    },
+    {
+      "ea": 4201436,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4201463,
+      "comment": "Format"
+    },
+    {
+      "ea": 4201475,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201487,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201499,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201508,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201515,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201542,
+      "comment": "Format"
+    },
+    {
+      "ea": 4201554,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201557,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201566,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201573,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201586,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201595,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201602,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201621,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4201622,
+      "comment": "nBufferLength"
+    },
+    {
+      "ea": 4201641,
+      "comment": "Ch"
+    },
+    {
+      "ea": 4201643,
+      "comment": "Str"
+    },
+    {
+      "ea": 4201658,
+      "comment": "Ch"
+    },
+    {
+      "ea": 4201660,
+      "comment": "Str"
+    },
+    {
+      "ea": 4201669,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201678,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4201685,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4201716,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4201721,
+      "comment": "lpDatabaseName"
+    },
+    {
+      "ea": 4201722,
+      "comment": "lpMachineName"
+    },
+    {
+      "ea": 4201758,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4201759,
+      "comment": "lpServiceName"
+    },
+    {
+      "ea": 4201760,
+      "comment": "hSCManager"
+    },
+    {
+      "ea": 4201774,
+      "comment": "lpServiceArgVectors"
+    },
+    {
+      "ea": 4201775,
+      "comment": "dwNumServiceArgs"
+    },
+    {
+      "ea": 4201776,
+      "comment": "hService"
+    },
+    {
+      "ea": 4201783,
+      "comment": "hSCObject"
+    },
+    {
+      "ea": 4201811,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4201827,
+      "comment": "lpPassword"
+    },
+    {
+      "ea": 4201828,
+      "comment": "lpServiceStartName"
+    },
+    {
+      "ea": 4201829,
+      "comment": "lpDependencies"
+    },
+    {
+      "ea": 4201830,
+      "comment": "lpdwTagId"
+    },
+    {
+      "ea": 4201831,
+      "comment": "lpLoadOrderGroup"
+    },
+    {
+      "ea": 4201832,
+      "comment": "lpBinaryPathName"
+    },
+    {
+      "ea": 4201833,
+      "comment": "dwErrorControl"
+    },
+    {
+      "ea": 4201835,
+      "comment": "dwStartType"
+    },
+    {
+      "ea": 4201837,
+      "comment": "dwServiceType"
+    },
+    {
+      "ea": 4201839,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4201840,
+      "comment": "lpDisplayName"
+    },
+    {
+      "ea": 4201841,
+      "comment": "lpServiceName"
+    },
+    {
+      "ea": 4201842,
+      "comment": "hSCManager"
+    },
+    {
+      "ea": 4201857,
+      "comment": "lpServiceArgVectors"
+    },
+    {
+      "ea": 4201858,
+      "comment": "dwNumServiceArgs"
+    },
+    {
+      "ea": 4201859,
+      "comment": "hService"
+    },
+    {
+      "ea": 4201866,
+      "comment": "hSCObject"
+    },
+    {
+      "ea": 4201883,
+      "comment": "hSCObject"
+    },
+    {
+      "ea": 4201915,
+      "comment": "lpName"
+    },
+    {
+      "ea": 4201920,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201935,
+      "comment": "hResInfo"
+    },
+    {
+      "ea": 4201936,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201949,
+      "comment": "hResData"
+    },
+    {
+      "ea": 4201962,
+      "comment": "Str"
+    },
+    {
+      "ea": 4201965,
+      "comment": "hResInfo"
+    },
+    {
+      "ea": 4201966,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4201975,
+      "comment": "int"
+    },
+    {
+      "ea": 4201976,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4202025,
+      "comment": "Src"
+    },
+    {
+      "ea": 4202026,
+      "comment": "int"
+    },
+    {
+      "ea": 4202028,
+      "comment": "int"
+    },
+    {
+      "ea": 4202055,
+      "comment": "Src"
+    },
+    {
+      "ea": 4202056,
+      "comment": "int"
+    },
+    {
+      "ea": 4202057,
+      "comment": "int"
+    },
+    {
+      "ea": 4202074,
+      "comment": "Str1"
+    },
+    {
+      "ea": 4202093,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4202111,
+      "comment": "Source"
+    },
+    {
+      "ea": 4202112,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4202113,
+      "comment": "int"
+    },
+    {
+      "ea": 4202127,
+      "comment": "void *"
+    },
+    {
+      "ea": 4202157,
+      "comment": "int"
+    },
+    {
+      "ea": 4202159,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4202210,
+      "comment": "Source"
+    },
+    {
+      "ea": 4202214,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4202226,
+      "comment": "int"
+    },
+    {
+      "ea": 4202228,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4202261,
+      "comment": "Buffer"
+    },
+    {
+      "ea": 4202281,
+      "comment": "lpName"
+    },
+    {
+      "ea": 4202282,
+      "comment": "bInheritHandle"
+    },
+    {
+      "ea": 4202284,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4202299,
+      "comment": "dwMilliseconds"
+    },
+    {
+      "ea": 4202321,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4202378,
+      "comment": "lpFilePart"
+    },
+    {
+      "ea": 4202380,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4202381,
+      "comment": "nBufferLength"
+    },
+    {
+      "ea": 4202427,
+      "comment": "lpExitCode"
+    },
+    {
+      "ea": 4202435,
+      "comment": "dwMilliseconds"
+    },
+    {
+      "ea": 4202437,
+      "comment": "lpCommandLine"
+    },
+    {
+      "ea": 4202518,
+      "comment": "nSize"
+    },
+    {
+      "ea": 4202525,
+      "comment": "lpFilename"
+    },
+    {
+      "ea": 4202526,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4202568,
+      "comment": "Str1"
+    },
+    {
+      "ea": 4202582,
+      "comment": "wchar_t *"
+    },
+    {
+      "ea": 4202598,
+      "comment": "bFailIfExists"
+    },
+    {
+      "ea": 4202605,
+      "comment": "lpNewFileName"
+    },
+    {
+      "ea": 4202606,
+      "comment": "lpExistingFileName"
+    },
+    {
+      "ea": 4202613,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4202650,
+      "comment": "Ch"
+    },
+    {
+      "ea": 4202652,
+      "comment": "Str"
+    },
+    {
+      "ea": 4202667,
+      "comment": "Ch"
+    },
+    {
+      "ea": 4202669,
+      "comment": "Str"
+    },
+    {
+      "ea": 4202682,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4202703,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4202714,
+      "comment": "lpExitCode"
+    },
+    {
+      "ea": 4202715,
+      "comment": "dwMilliseconds"
+    },
+    {
+      "ea": 4202726,
+      "comment": "lpExitCode"
+    },
+    {
+      "ea": 4202727,
+      "comment": "dwMilliseconds"
+    },
+    {
+      "ea": 4202761,
+      "comment": "int"
+    },
+    {
+      "ea": 4202762,
+      "comment": "int"
+    },
+    {
+      "ea": 4202763,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4202788,
+      "comment": "int"
+    },
+    {
+      "ea": 4202806,
+      "comment": "int"
+    },
+    {
+      "ea": 4202809,
+      "comment": "Src"
+    },
+    {
+      "ea": 4202826,
+      "comment": "int"
+    },
+    {
+      "ea": 4202862,
+      "comment": "flProtect"
+    },
+    {
+      "ea": 4202866,
+      "comment": "flAllocationType"
+    },
+    {
+      "ea": 4202870,
+      "comment": "dwSize"
+    },
+    {
+      "ea": 4202874,
+      "comment": "lpAddress"
+    },
+    {
+      "ea": 4202885,
+      "comment": "dwFreeType"
+    },
+    {
+      "ea": 4202889,
+      "comment": "dwSize"
+    },
+    {
+      "ea": 4202893,
+      "comment": "lpAddress"
+    },
+    {
+      "ea": 4202915,
+      "comment": "lpProcName"
+    },
+    {
+      "ea": 4202919,
+      "comment": "hModule"
+    },
+    {
+      "ea": 4202941,
+      "comment": "int"
+    },
+    {
+      "ea": 4202943,
+      "comment": "int"
+    },
+    {
+      "ea": 4202948,
+      "comment": "int"
+    },
+    {
+      "ea": 4202953,
+      "comment": "int"
+    },
+    {
+      "ea": 4202958,
+      "comment": "int"
+    },
+    {
+      "ea": 4202963,
+      "comment": "int"
+    },
+    {
+      "ea": 4202968,
+      "comment": "int"
+    },
+    {
+      "ea": 4202972,
+      "comment": "Src"
+    },
+    {
+      "ea": 4203028,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4203279,
+      "comment": "dwBytes"
+    },
+    {
+      "ea": 4203281,
+      "comment": "dwFlags"
+    },
+    {
+      "ea": 4203289,
+      "comment": "hHeap"
+    },
+    {
+      "ea": 4203421,
+      "comment": "Size"
+    },
+    {
+      "ea": 4203427,
+      "comment": "Src"
+    },
+    {
+      "ea": 4203430,
+      "comment": "void *"
+    },
+    {
+      "ea": 4203563,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4203574,
+      "comment": "lpMem"
+    },
+    {
+      "ea": 4203617,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4203723,
+      "comment": "Size"
+    },
+    {
+      "ea": 4203727,
+      "comment": "Val"
+    },
+    {
+      "ea": 4203729,
+      "comment": "void *"
+    },
+    {
+      "ea": 4203797,
+      "comment": "Size"
+    },
+    {
+      "ea": 4203805,
+      "comment": "Src"
+    },
+    {
+      "ea": 4203806,
+      "comment": "void *"
+    },
+    {
+      "ea": 4203979,
+      "comment": "flOldProtect"
+    },
+    {
+      "ea": 4203980,
+      "comment": "int"
+    },
+    {
+      "ea": 4204087,
+      "comment": "flOldProtect"
+    },
+    {
+      "ea": 4204088,
+      "comment": "int"
+    },
+    {
+      "ea": 4204296,
+      "comment": "lpflOldProtect"
+    },
+    {
+      "ea": 4204297,
+      "comment": "flNewProtect"
+    },
+    {
+      "ea": 4204298,
+      "comment": "dwSize"
+    },
+    {
+      "ea": 4204299,
+      "comment": "lpAddress"
+    },
+    {
+      "ea": 4204559,
+      "comment": "ucb"
+    },
+    {
+      "ea": 4204561,
+      "comment": "lp"
+    },
+    {
+      "ea": 4204624,
+      "comment": "Size"
+    },
+    {
+      "ea": 4204625,
+      "comment": "Block"
+    },
+    {
+      "ea": 4204761,
+      "comment": "ucb"
+    },
+    {
+      "ea": 4204763,
+      "comment": "lp"
+    },
+    {
+      "ea": 4204795,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4204820,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4204933,
+      "comment": "String2"
+    },
+    {
+      "ea": 4204934,
+      "comment": "String1"
+    },
+    {
+      "ea": 4204965,
+      "comment": "dwErrCode"
+    },
+    {
+      "ea": 4205074,
+      "comment": "Block"
+    },
+    {
+      "ea": 4205108,
+      "comment": "lpMem"
+    },
+    {
+      "ea": 4205109,
+      "comment": "dwFlags"
+    },
+    {
+      "ea": 4205116,
+      "comment": "hHeap"
+    },
+    {
+      "ea": 4205154,
+      "comment": "void *"
+    },
+    {
+      "ea": 4205214,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4205219,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4205270,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4205275,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4205320,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4205325,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4205331,
+      "comment": "Size"
+    },
+    {
+      "ea": 4205338,
+      "comment": "Src"
+    },
+    {
+      "ea": 4205353,
+      "comment": "void *"
+    },
+    {
+      "ea": 4205359,
+      "comment": "Size"
+    },
+    {
+      "ea": 4205371,
+      "comment": "Src"
+    },
+    {
+      "ea": 4205374,
+      "comment": "void *"
+    },
+    {
+      "ea": 4206241,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4206246,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4207071,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4207076,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4207921,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4207926,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4208282,
+      "comment": "Size"
+    },
+    {
+      "ea": 4208289,
+      "comment": "Src"
+    },
+    {
+      "ea": 4208296,
+      "comment": "void *"
+    },
+    {
+      "ea": 4208569,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4208574,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4208936,
+      "comment": "Size"
+    },
+    {
+      "ea": 4208943,
+      "comment": "Src"
+    },
+    {
+      "ea": 4208950,
+      "comment": "void *"
+    },
+    {
+      "ea": 4209222,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4209227,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4209306,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4209311,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4209394,
+      "comment": "Size"
+    },
+    {
+      "ea": 4209406,
+      "comment": "Src"
+    },
+    {
+      "ea": 4209407,
+      "comment": "void *"
+    },
+    {
+      "ea": 4209498,
+      "comment": "Size"
+    },
+    {
+      "ea": 4209510,
+      "comment": "Src"
+    },
+    {
+      "ea": 4209511,
+      "comment": "void *"
+    },
+    {
+      "ea": 4209611,
+      "comment": "pThrowInfo"
+    },
+    {
+      "ea": 4209616,
+      "comment": "pExceptionObject"
+    },
+    {
+      "ea": 4209717,
+      "comment": "Size"
+    },
+    {
+      "ea": 4209718,
+      "comment": "Src"
+    },
+    {
+      "ea": 4209721,
+      "comment": "void *"
+    },
+    {
+      "ea": 4209823,
+      "comment": "Size"
+    },
+    {
+      "ea": 4209824,
+      "comment": "Src"
+    },
+    {
+      "ea": 4209827,
+      "comment": "void *"
+    },
+    {
+      "ea": 4209982,
+      "comment": "switch 10 cases"
+    },
+    {
+      "ea": 4209991,
+      "comment": "switch jump"
+    },
+    {
+      "ea": 4210738,
+      "comment": "int"
+    },
+    {
+      "ea": 4210744,
+      "comment": "Src"
+    },
+    {
+      "ea": 4210745,
+      "comment": "int"
+    },
+    {
+      "ea": 4210927,
+      "comment": "int"
+    },
+    {
+      "ea": 4210933,
+      "comment": "Src"
+    },
+    {
+      "ea": 4210934,
+      "comment": "int"
+    },
+    {
+      "ea": 4211182,
+      "comment": "int"
+    },
+    {
+      "ea": 4211188,
+      "comment": "Src"
+    },
+    {
+      "ea": 4211189,
+      "comment": "int"
+    },
+    {
+      "ea": 4211288,
+      "comment": "int"
+    },
+    {
+      "ea": 4211320,
+      "comment": "Src"
+    },
+    {
+      "ea": 4211321,
+      "comment": "int"
+    },
+    {
+      "ea": 4211335,
+      "comment": "jump table for switch statement"
+    },
+    {
+      "ea": 4211703,
+      "comment": "switch 10 cases"
+    },
+    {
+      "ea": 4211720,
+      "comment": "switch jump"
+    },
+    {
+      "ea": 4212085,
+      "comment": "int"
+    },
+    {
+      "ea": 4212094,
+      "comment": "Src"
+    },
+    {
+      "ea": 4212095,
+      "comment": "int"
+    },
+    {
+      "ea": 4212214,
+      "comment": "Size"
+    },
+    {
+      "ea": 4212217,
+      "comment": "Src"
+    },
+    {
+      "ea": 4212218,
+      "comment": "void *"
+    },
+    {
+      "ea": 4213048,
+      "comment": "int"
+    },
+    {
+      "ea": 4213070,
+      "comment": "Src"
+    },
+    {
+      "ea": 4213073,
+      "comment": "int"
+    },
+    {
+      "ea": 4213189,
+      "comment": "int"
+    },
+    {
+      "ea": 4213221,
+      "comment": "Src"
+    },
+    {
+      "ea": 4213222,
+      "comment": "int"
+    },
+    {
+      "ea": 4213427,
+      "comment": "int"
+    },
+    {
+      "ea": 4213442,
+      "comment": "Src"
+    },
+    {
+      "ea": 4213445,
+      "comment": "int"
+    },
+    {
+      "ea": 4213587,
+      "comment": "Src"
+    },
+    {
+      "ea": 4213588,
+      "comment": "int"
+    },
+    {
+      "ea": 4213693,
+      "comment": "jump table for switch statement"
+    },
+    {
+      "ea": 4216541,
+      "comment": "Size"
+    },
+    {
+      "ea": 4216545,
+      "comment": "Count"
+    },
+    {
+      "ea": 4216558,
+      "comment": "Block"
+    },
+    {
+      "ea": 4216952,
+      "comment": "switch 14 cases"
+    },
+    {
+      "ea": 4216960,
+      "comment": "switch jump"
+    },
+    {
+      "ea": 4217171,
+      "comment": "Src"
+    },
+    {
+      "ea": 4217172,
+      "comment": "int"
+    },
+    {
+      "ea": 4217718,
+      "comment": "jump table for switch statement"
+    },
+    {
+      "ea": 4217835,
+      "comment": "hTemplateFile"
+    },
+    {
+      "ea": 4217836,
+      "comment": "dwFlagsAndAttributes"
+    },
+    {
+      "ea": 4217841,
+      "comment": "dwCreationDisposition"
+    },
+    {
+      "ea": 4217843,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4217844,
+      "comment": "dwShareMode"
+    },
+    {
+      "ea": 4217846,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4217851,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4217892,
+      "comment": "dwMoveMethod"
+    },
+    {
+      "ea": 4217894,
+      "comment": "lpDistanceToMoveHigh"
+    },
+    {
+      "ea": 4217895,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4217896,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4217910,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4217989,
+      "comment": "dwMoveMethod"
+    },
+    {
+      "ea": 4217991,
+      "comment": "lpDistanceToMoveHigh"
+    },
+    {
+      "ea": 4217992,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4217993,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4218035,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4218044,
+      "comment": "void *"
+    },
+    {
+      "ea": 4218095,
+      "comment": "dwMoveMethod"
+    },
+    {
+      "ea": 4218097,
+      "comment": "lpDistanceToMoveHigh"
+    },
+    {
+      "ea": 4218098,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4218099,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4218177,
+      "comment": "dwMoveMethod"
+    },
+    {
+      "ea": 4218179,
+      "comment": "lpDistanceToMoveHigh"
+    },
+    {
+      "ea": 4218180,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4218183,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4218273,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4218275,
+      "comment": "lpNumberOfBytesRead"
+    },
+    {
+      "ea": 4218276,
+      "comment": "nNumberOfBytesToRead"
+    },
+    {
+      "ea": 4218277,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4218280,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4218322,
+      "comment": "Size"
+    },
+    {
+      "ea": 4218325,
+      "comment": "Src"
+    },
+    {
+      "ea": 4218326,
+      "comment": "void *"
+    },
+    {
+      "ea": 4218355,
+      "comment": "int"
+    },
+    {
+      "ea": 4218361,
+      "comment": "int"
+    },
+    {
+      "ea": 4218363,
+      "comment": "int"
+    },
+    {
+      "ea": 4218365,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4218599,
+      "comment": "int"
+    },
+    {
+      "ea": 4218601,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4218603,
+      "comment": "int"
+    },
+    {
+      "ea": 4218652,
+      "comment": "Size"
+    },
+    {
+      "ea": 4218736,
+      "comment": "int"
+    },
+    {
+      "ea": 4218738,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4218739,
+      "comment": "int"
+    },
+    {
+      "ea": 4218754,
+      "comment": "int"
+    },
+    {
+      "ea": 4218757,
+      "comment": "int"
+    },
+    {
+      "ea": 4218759,
+      "comment": "int"
+    },
+    {
+      "ea": 4218760,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4218835,
+      "comment": "Block"
+    },
+    {
+      "ea": 4218909,
+      "comment": "int"
+    },
+    {
+      "ea": 4218911,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4218912,
+      "comment": "int"
+    },
+    {
+      "ea": 4219154,
+      "comment": "void *"
+    },
+    {
+      "ea": 4219168,
+      "comment": "Size"
+    },
+    {
+      "ea": 4219261,
+      "comment": "void *"
+    },
+    {
+      "ea": 4219268,
+      "comment": "Block"
+    },
+    {
+      "ea": 4219395,
+      "comment": "int"
+    },
+    {
+      "ea": 4219396,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4219397,
+      "comment": "int"
+    },
+    {
+      "ea": 4219827,
+      "comment": "int"
+    },
+    {
+      "ea": 4219829,
+      "comment": "int"
+    },
+    {
+      "ea": 4219831,
+      "comment": "int"
+    },
+    {
+      "ea": 4219832,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4219884,
+      "comment": "int"
+    },
+    {
+      "ea": 4219886,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4219887,
+      "comment": "int"
+    },
+    {
+      "ea": 4219921,
+      "comment": "int"
+    },
+    {
+      "ea": 4219923,
+      "comment": "int"
+    },
+    {
+      "ea": 4219925,
+      "comment": "int"
+    },
+    {
+      "ea": 4219926,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4219994,
+      "comment": "int"
+    },
+    {
+      "ea": 4219996,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4219997,
+      "comment": "int"
+    },
+    {
+      "ea": 4220027,
+      "comment": "int"
+    },
+    {
+      "ea": 4220029,
+      "comment": "int"
+    },
+    {
+      "ea": 4220031,
+      "comment": "int"
+    },
+    {
+      "ea": 4220032,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4220094,
+      "comment": "int"
+    },
+    {
+      "ea": 4220097,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220100,
+      "comment": "int"
+    },
+    {
+      "ea": 4220103,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220106,
+      "comment": "int"
+    },
+    {
+      "ea": 4220109,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4220112,
+      "comment": "int"
+    },
+    {
+      "ea": 4220114,
+      "comment": "int"
+    },
+    {
+      "ea": 4220117,
+      "comment": "int"
+    },
+    {
+      "ea": 4220150,
+      "comment": "int"
+    },
+    {
+      "ea": 4220151,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220152,
+      "comment": "int"
+    },
+    {
+      "ea": 4220156,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220157,
+      "comment": "int"
+    },
+    {
+      "ea": 4220161,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4220162,
+      "comment": "int"
+    },
+    {
+      "ea": 4220169,
+      "comment": "int"
+    },
+    {
+      "ea": 4220170,
+      "comment": "int"
+    },
+    {
+      "ea": 4220236,
+      "comment": "int"
+    },
+    {
+      "ea": 4220237,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220238,
+      "comment": "int"
+    },
+    {
+      "ea": 4220242,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4220243,
+      "comment": "int"
+    },
+    {
+      "ea": 4220247,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4220248,
+      "comment": "int"
+    },
+    {
+      "ea": 4220259,
+      "comment": "int"
+    },
+    {
+      "ea": 4220260,
+      "comment": "int"
+    },
+    {
+      "ea": 4220309,
+      "comment": "int"
+    },
+    {
+      "ea": 4220318,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4220319,
+      "comment": "int"
+    },
+    {
+      "ea": 4220769,
+      "comment": "Size"
+    },
+    {
+      "ea": 4220787,
+      "comment": "Size"
+    },
+    {
+      "ea": 4220820,
+      "comment": "Block"
+    },
+    {
+      "ea": 4221195,
+      "comment": "int"
+    },
+    {
+      "ea": 4221200,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4221201,
+      "comment": "int"
+    },
+    {
+      "ea": 4221220,
+      "comment": "int"
+    },
+    {
+      "ea": 4221223,
+      "comment": "int"
+    },
+    {
+      "ea": 4221225,
+      "comment": "int"
+    },
+    {
+      "ea": 4221226,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4221467,
+      "comment": "int"
+    },
+    {
+      "ea": 4221469,
+      "comment": "Src"
+    },
+    {
+      "ea": 4221655,
+      "comment": "Block"
+    },
+    {
+      "ea": 4221678,
+      "comment": "Block"
+    },
+    {
+      "ea": 4221812,
+      "comment": "lpFileTime"
+    },
+    {
+      "ea": 4221819,
+      "comment": "lpSystemTime"
+    },
+    {
+      "ea": 4221871,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4221872,
+      "comment": "nBufferLength"
+    },
+    {
+      "ea": 4221883,
+      "comment": "Str"
+    },
+    {
+      "ea": 4221910,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4221925,
+      "comment": "dwMoveMethod"
+    },
+    {
+      "ea": 4221927,
+      "comment": "lpDistanceToMoveHigh"
+    },
+    {
+      "ea": 4221929,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4221931,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4221955,
+      "comment": "int"
+    },
+    {
+      "ea": 4221956,
+      "comment": "int"
+    },
+    {
+      "ea": 4221959,
+      "comment": "int"
+    },
+    {
+      "ea": 4221962,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4221982,
+      "comment": "void *"
+    },
+    {
+      "ea": 4222088,
+      "comment": "Size"
+    },
+    {
+      "ea": 4222093,
+      "comment": "Src"
+    },
+    {
+      "ea": 4222094,
+      "comment": "void *"
+    },
+    {
+      "ea": 4222225,
+      "comment": "int"
+    },
+    {
+      "ea": 4222226,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4222227,
+      "comment": "int"
+    },
+    {
+      "ea": 4222228,
+      "comment": "LPVOID"
+    },
+    {
+      "ea": 4222229,
+      "comment": "int"
+    },
+    {
+      "ea": 4222234,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4222238,
+      "comment": "int"
+    },
+    {
+      "ea": 4222239,
+      "comment": "int"
+    },
+    {
+      "ea": 4222284,
+      "comment": "int"
+    },
+    {
+      "ea": 4222285,
+      "comment": "lDistanceToMove"
+    },
+    {
+      "ea": 4222288,
+      "comment": "int"
+    },
+    {
+      "ea": 4222302,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4222315,
+      "comment": "int"
+    },
+    {
+      "ea": 4222317,
+      "comment": "int"
+    },
+    {
+      "ea": 4222320,
+      "comment": "int"
+    },
+    {
+      "ea": 4222322,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4222336,
+      "comment": "void *"
+    },
+    {
+      "ea": 4222371,
+      "comment": "Source"
+    },
+    {
+      "ea": 4222378,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4222430,
+      "comment": "Str"
+    },
+    {
+      "ea": 4222444,
+      "comment": "Str"
+    },
+    {
+      "ea": 4222458,
+      "comment": "Str"
+    },
+    {
+      "ea": 4222472,
+      "comment": "Str"
+    },
+    {
+      "ea": 4222489,
+      "comment": "Source"
+    },
+    {
+      "ea": 4222490,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4222701,
+      "comment": "lpFileTime"
+    },
+    {
+      "ea": 4222705,
+      "comment": "lpLocalFileTime"
+    },
+    {
+      "ea": 4222803,
+      "comment": "Str1"
+    },
+    {
+      "ea": 4223035,
+      "comment": "void *"
+    },
+    {
+      "ea": 4223042,
+      "comment": "Size"
+    },
+    {
+      "ea": 4223047,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223054,
+      "comment": "void *"
+    },
+    {
+      "ea": 4223106,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223118,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4223120,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4223175,
+      "comment": "Size"
+    },
+    {
+      "ea": 4223176,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223177,
+      "comment": "void *"
+    },
+    {
+      "ea": 4223197,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223198,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223225,
+      "comment": "Source"
+    },
+    {
+      "ea": 4223226,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4223240,
+      "comment": "Source"
+    },
+    {
+      "ea": 4223241,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4223255,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223273,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4223275,
+      "comment": "lpPathName"
+    },
+    {
+      "ea": 4223571,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223572,
+      "comment": "int"
+    },
+    {
+      "ea": 4223630,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223631,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223693,
+      "comment": "Source"
+    },
+    {
+      "ea": 4223694,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4223739,
+      "comment": "LPSTR"
+    },
+    {
+      "ea": 4223752,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223753,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223764,
+      "comment": "hTemplateFile"
+    },
+    {
+      "ea": 4223765,
+      "comment": "dwFlagsAndAttributes"
+    },
+    {
+      "ea": 4223771,
+      "comment": "dwCreationDisposition"
+    },
+    {
+      "ea": 4223773,
+      "comment": "lpSecurityAttributes"
+    },
+    {
+      "ea": 4223774,
+      "comment": "dwShareMode"
+    },
+    {
+      "ea": 4223781,
+      "comment": "dwDesiredAccess"
+    },
+    {
+      "ea": 4223786,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223886,
+      "comment": "LPSTR"
+    },
+    {
+      "ea": 4223899,
+      "comment": "Src"
+    },
+    {
+      "ea": 4223900,
+      "comment": "lpFileName"
+    },
+    {
+      "ea": 4223944,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4223998,
+      "comment": "lpOverlapped"
+    },
+    {
+      "ea": 4224000,
+      "comment": "lpNumberOfBytesWritten"
+    },
+    {
+      "ea": 4224001,
+      "comment": "nNumberOfBytesToWrite"
+    },
+    {
+      "ea": 4224002,
+      "comment": "lpBuffer"
+    },
+    {
+      "ea": 4224008,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224066,
+      "comment": "lpLastWriteTime"
+    },
+    {
+      "ea": 4224073,
+      "comment": "lpLastAccessTime"
+    },
+    {
+      "ea": 4224080,
+      "comment": "lpCreationTime"
+    },
+    {
+      "ea": 4224081,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224096,
+      "comment": "hObject"
+    },
+    {
+      "ea": 4224150,
+      "comment": "Block"
+    },
+    {
+      "ea": 4224176,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4224200,
+      "comment": "Str"
+    },
+    {
+      "ea": 4224214,
+      "comment": "int"
+    },
+    {
+      "ea": 4224223,
+      "comment": "int"
+    },
+    {
+      "ea": 4224226,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224254,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224265,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4224334,
+      "comment": "Str"
+    },
+    {
+      "ea": 4224341,
+      "comment": "unsigned int"
+    },
+    {
+      "ea": 4224347,
+      "comment": "Source"
+    },
+    {
+      "ea": 4224348,
+      "comment": "Destination"
+    },
+    {
+      "ea": 4224390,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224416,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224429,
+      "comment": "Str"
+    },
+    {
+      "ea": 4224433,
+      "comment": "int"
+    },
+    {
+      "ea": 4224435,
+      "comment": "int"
+    },
+    {
+      "ea": 4224439,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224499,
+      "comment": "Src"
+    },
+    {
+      "ea": 4224500,
+      "comment": "int"
+    },
+    {
+      "ea": 4224544,
+      "comment": "int"
+    },
+    {
+      "ea": 4224552,
+      "comment": "int"
+    },
+    {
+      "ea": 4224555,
+      "comment": "Source"
+    },
+    {
+      "ea": 4224558,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224573,
+      "comment": "int"
+    },
+    {
+      "ea": 4224575,
+      "comment": "int"
+    },
+    {
+      "ea": 4224577,
+      "comment": "Source"
+    },
+    {
+      "ea": 4224581,
+      "comment": "hFile"
+    },
+    {
+      "ea": 4224585,
+      "comment": "int"
+    },
+    {
+      "ea": 4224658,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224665,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224859,
+      "comment": "void *"
+    },
+    {
+      "ea": 4224997,
+      "comment": "Type"
+    },
+    {
+      "ea": 4225073,
+      "comment": "UserMathErrorFunction"
+    },
+    {
+      "ea": 4225090,
+      "comment": "Last"
+    },
+    {
+      "ea": 4225095,
+      "comment": "First"
+    },
+    {
+      "ea": 4225141,
+      "comment": "Last"
+    },
+    {
+      "ea": 4225146,
+      "comment": "First"
+    },
+    {
+      "ea": 4225213,
+      "comment": "lpStartupInfo"
+    },
+    {
+      "ea": 4225246,
+      "comment": "nShowCmd"
+    },
+    {
+      "ea": 4225247,
+      "comment": "lpCmdLine"
+    },
+    {
+      "ea": 4225248,
+      "comment": "hPrevInstance"
+    },
+    {
+      "ea": 4225249,
+      "comment": "lpModuleName"
+    },
+    {
+      "ea": 4225256,
+      "comment": "hInstance"
+    },
+    {
+      "ea": 4225265,
+      "comment": "Code"
+    },
+    {
+      "ea": 4225295,
+      "comment": "Code"
+    },
+    {
+      "ea": 4225322,
+      "comment": "Mask"
+    },
+    {
+      "ea": 4225327,
+      "comment": "NewValue"
+    },
+    {
+      "ea": 4248728,
+      "comment": "reference to type description"
+    },
+    {
+      "ea": 4248732,
+      "comment": "# of sub elements within base class array"
+    },
+    {
+      "ea": 4248736,
+      "comment": "member displacement"
+    },
+    {
+      "ea": 4248740,
+      "comment": "vftable displacement"
+    },
+    {
+      "ea": 4248744,
+      "comment": "displacement within vftable"
+    },
+    {
+      "ea": 4248748,
+      "comment": "base class attributes"
+    },
+    {
+      "ea": 4248752,
+      "comment": "reference to base class decription 1"
+    },
+    {
+      "ea": 4248760,
+      "comment": "signature"
+    },
+    {
+      "ea": 4248764,
+      "comment": "attributes"
+    },
+    {
+      "ea": 4248768,
+      "comment": "# of items in the array of base classes"
+    },
+    {
+      "ea": 4248772,
+      "comment": "reference to the array of base classes"
+    },
+    {
+      "ea": 4248776,
+      "comment": "signature"
+    },
+    {
+      "ea": 4248780,
+      "comment": "offset of this vtable in complete class (from top)"
+    },
+    {
+      "ea": 4248784,
+      "comment": "offset of constructor displacement"
+    },
+    {
+      "ea": 4248788,
+      "comment": "reference to type description"
+    },
+    {
+      "ea": 4248792,
+      "comment": "reference to hierarchy description"
+    },
+    {
+      "ea": 4248904,
+      "comment": "attributes"
+    },
+    {
+      "ea": 4248912,
+      "comment": "mdisp"
+    },
+    {
+      "ea": 4248916,
+      "comment": "pdisp"
+    },
+    {
+      "ea": 4248920,
+      "comment": "vdisp"
+    },
+    {
+      "ea": 4248924,
+      "comment": "size of thrown object"
+    },
+    {
+      "ea": 4248928,
+      "comment": "reference to optional copy constructor"
+    },
+    {
+      "ea": 4248936,
+      "comment": "count of catchable type addresses following"
+    },
+    {
+      "ea": 4248944,
+      "comment": "attributes"
+    },
+    {
+      "ea": 4249000,
+      "comment": "Import Name Table"
+    },
+    {
+      "ea": 4249004,
+      "comment": "Time stamp"
+    },
+    {
+      "ea": 4249008,
+      "comment": "Forwarder Chain"
+    },
+    {
+      "ea": 4249012,
+      "comment": "DLL Name"
+    },
+    {
+      "ea": 4249016,
+      "comment": "Import Address Table"
+    },
+    {
+      "ea": 4249020,
+      "comment": "Import Name Table"
+    },
+    {
+      "ea": 4249024,
+      "comment": "Time stamp"
+    },
+    {
+      "ea": 4249028,
+      "comment": "Forwarder Chain"
+    },
+    {
+      "ea": 4249032,
+      "comment": "DLL Name"
+    },
+    {
+      "ea": 4249036,
+      "comment": "Import Address Table"
+    },
+    {
+      "ea": 4249040,
+      "comment": "Import Name Table"
+    },
+    {
+      "ea": 4249044,
+      "comment": "Time stamp"
+    },
+    {
+      "ea": 4249048,
+      "comment": "Forwarder Chain"
+    },
+    {
+      "ea": 4249052,
+      "comment": "DLL Name"
+    },
+    {
+      "ea": 4249056,
+      "comment": "Import Address Table"
+    },
+    {
+      "ea": 4249060,
+      "comment": "Import Name Table"
+    },
+    {
+      "ea": 4249064,
+      "comment": "Time stamp"
+    },
+    {
+      "ea": 4249068,
+      "comment": "Forwarder Chain"
+    },
+    {
+      "ea": 4249072,
+      "comment": "DLL Name"
+    },
+    {
+      "ea": 4249076,
+      "comment": "Import Address Table"
+    },
+    {
+      "ea": 4257152,
+      "comment": "reference to RTTI's vftable"
+    },
+    {
+      "ea": 4257156,
+      "comment": "internal runtime reference"
+    },
+    {
+      "ea": 4257872,
+      "comment": "reference to RTTI's vftable"
+    },
+    {
+      "ea": 4257876,
+      "comment": "internal runtime reference"
+    }
+  ]
+}

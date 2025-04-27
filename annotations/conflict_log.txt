@@ -1,1 +1,2 @@
-Function Name Conflict at 0x401DAB: existing='ccnn_401DAB' new='sub_401DAB'
+Function Name Conflict at 0x4010FD: existing='afsaf_4010FD' new='conf11_4010FD'
+Function Name Conflict at 0x401DAB: existing='asfasfasf_401DAB' new='cccc_401DAB'
