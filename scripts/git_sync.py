@@ -1,9 +1,10 @@
-# git_sync.py
 import subprocess
 import os
+import time
 
 REPO_PATH = os.path.abspath(".")  # 현재 경로 기준 (IDA에서 실행하는 위치)
-
+timestamp = time.strftime("%Y%m%d_%H%M%S")
+    
 def run_git_command(cmd, cwd=None):
     try:
         print(f"[GIT] {cmd}")
@@ -19,6 +20,6 @@ def git_pull():
     run_git_command("git pull")
 
 def git_push():
-    run_git_command("git add annotations/")
-    run_git_command('git commit -m "Update annotations [자동화]"')
+    run_git_command("git add .")
+    run_git_command(f'git commit -m "Update annotations {timestamp}"')
     run_git_command("git push")
