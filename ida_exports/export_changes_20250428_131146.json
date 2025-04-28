@@ -1,0 +1,113 @@
+[
+  {
+    "ea": 4202471,
+    "name": "_WinMain@16",
+    "line_comments": [
+      {
+        "ea": 4202518,
+        "text": "nSize"
+      },
+      {
+        "ea": 4202525,
+        "text": "lpFilename"
+      },
+      {
+        "ea": 4202526,
+        "text": "hModule"
+      },
+      {
+        "ea": 4202568,
+        "text": "Str1"
+      },
+      {
+        "ea": 4202582,
+        "text": "wchar_t *"
+      },
+      {
+        "ea": 4202598,
+        "text": "bFailIfExists"
+      },
+      {
+        "ea": 4202605,
+        "text": "lpNewFileName"
+      },
+      {
+        "ea": 4202606,
+        "text": "lpExistingFileName"
+      },
+      {
+        "ea": 4202613,
+        "text": "lpFileName"
+      },
+      {
+        "ea": 4202650,
+        "text": "Ch"
+      },
+      {
+        "ea": 4202652,
+        "text": "Str"
+      },
+      {
+        "ea": 4202667,
+        "text": "Ch"
+      },
+      {
+        "ea": 4202669,
+        "text": "Str"
+      },
+      {
+        "ea": 4202682,
+        "text": "lpPathName"
+      },
+      {
+        "ea": 4202703,
+        "text": "hModule"
+      },
+      {
+        "ea": 4202714,
+        "text": "lpExitCode"
+      },
+      {
+        "ea": 4202715,
+        "text": "dwMilliseconds"
+      },
+      {
+        "ea": 4202726,
+        "text": "lpExitCode"
+      },
+      {
+        "ea": 4202727,
+        "text": "dwMilliseconds"
+      },
+      {
+        "ea": 4202761,
+        "text": "int"
+      },
+      {
+        "ea": 4202762,
+        "text": "int"
+      },
+      {
+        "ea": 4202763,
+        "text": "lpFileName"
+      },
+      {
+        "ea": 4202788,
+        "text": "int"
+      },
+      {
+        "ea": 4202806,
+        "text": "int"
+      },
+      {
+        "ea": 4202809,
+        "text": "Src"
+      },
+      {
+        "ea": 4202826,
+        "text": "int"
+      }
+    ],
+    "decompiled_code": "int __stdcall WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)\n{\n  char ***v4; // eax\n  void *v5; // eax\n  int v6; // eax\n  void (__stdcall *v7)(_DWORD, _DWORD); // eax\n  int v9[310]; // [esp+10h] [ebp-6E4h] BYREF\n  CHAR Filename; // [esp+4E8h] [ebp-20Ch] BYREF\n  char v11[516]; // [esp+4E9h] [ebp-20Bh] BYREF\n  __int16 v12; // [esp+6EDh] [ebp-7h]\n  char v13; // [esp+6EFh] [ebp-5h]\n  int v14; // [esp+6F0h] [ebp-4h] BYREF\n\n  Filename = byte_40F910;\n  memset(v11, 0, sizeof(v11));\n  v12 = 0;\n  v13 = 0;\n  GetModuleFileNameA(0, &Filename, 0x208u);\n  sub_401225(DisplayName);\n  if ( *_p___argc() != 2\n    || (v4 = _p___argv(), strcmp((*v4)[1], aI))\n    || !sub_401B5F(0)\n    || (CopyFileA(&Filename, FileName, 0), GetFileAttributesA(FileName) == -1)\n    || !sub_401F5D() )\n  {\n    if ( strrchr(&Filename, 92) )\n      *strrchr(&Filename, 92) = 0;\n    SetCurrentDirectoryA(&Filename);            // 125125\n    extest_4010FD(1);\n    test2_401DAB(0, Str);                       // 5215125125\n    sub_401E9E();\n    sub_401064(CommandLine, 0, 0);\n    sub_401064(aIcaclsGrantEve, 0, 0);\n    if ( sub_40170A() )\n    {\n      sub_4012FD(v9);\n      if ( sub_401437(0, 0, 0) )\n      {\n        v14 = 0;\n        v5 = (void *)sub_4014A6(aTWnry, (int)&v14);\n        if ( v5 )\n        {\n          v6 = sub_4021BD(v5, v14);\n          if ( v6 )\n          {\n            v7 = (void (__stdcall *)(_DWORD, _DWORD))sub_402924(v6, String1);\n            if ( v7 )\n              v7(0, 0);\n          }\n        }\n      }\n      sub_40137A(v9);\n    }\n  }\n  return 0;\n}\n"
+  }
+]
