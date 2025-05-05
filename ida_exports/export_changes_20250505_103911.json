@@ -1,0 +1,112 @@
+[
+  {
+    "ea": 4202471,
+    "name": "_WinMain@16",
+    "line_comments": [
+      {
+        "ea": 4202518,
+        "text": "nSize"
+      },
+      {
+        "ea": 4202525,
+        "text": "lpFilename"
+      },
+      {
+        "ea": 4202526,
+        "text": "hModule"
+      },
+      {
+        "ea": 4202568,
+        "text": "Str1"
+      },
+      {
+        "ea": 4202582,
+        "text": "wchar_t *"
+      },
+      {
+        "ea": 4202598,
+        "text": "bFailIfExists"
+      },
+      {
+        "ea": 4202605,
+        "text": "lpNewFileName"
+      },
+      {
+        "ea": 4202606,
+        "text": "lpExistingFileName"
+      },
+      {
+        "ea": 4202613,
+        "text": "lpFileName"
+      },
+      {
+        "ea": 4202650,
+        "text": "Ch"
+      },
+      {
+        "ea": 4202652,
+        "text": "Str"
+      },
+      {
+        "ea": 4202667,
+        "text": "Ch"
+      },
+      {
+        "ea": 4202669,
+        "text": "Str"
+      },
+      {
+        "ea": 4202682,
+        "text": "lpPathName"
+      },
+      {
+        "ea": 4202703,
+        "text": "hModule"
+      },
+      {
+        "ea": 4202714,
+        "text": "lpExitCode"
+      },
+      {
+        "ea": 4202715,
+        "text": "dwMilliseconds"
+      },
+      {
+        "ea": 4202726,
+        "text": "lpExitCode"
+      },
+      {
+        "ea": 4202727,
+        "text": "dwMilliseconds"
+      },
+      {
+        "ea": 4202761,
+        "text": "int"
+      },
+      {
+        "ea": 4202762,
+        "text": "int"
+      },
+      {
+        "ea": 4202763,
+        "text": "lpFileName"
+      },
+      {
+        "ea": 4202788,
+        "text": "int"
+      },
+      {
+        "ea": 4202806,
+        "text": "int"
+      },
+      {
+        "ea": 4202809,
+        "text": "Src"
+      },
+      {
+        "ea": 4202826,
+        "text": "int"
+      }
+    ]
+  }
+]
