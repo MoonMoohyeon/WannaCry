@@ -1,3 +1,7 @@
 *wannaycry*
 __pycache__/
 *.vir
+*.dec
+*.exe
+*extracted*
+*mssecsvc*
