@@ -13,7 +13,7 @@ timestamp = time.strftime("%Y%m%d_%H%M%S")
 date_today = time.strftime("%Y-%m-%d")
 
 REPO_PATH = os.path.dirname(ida_loader.get_path(ida_loader.PATH_TYPE_IDB))
-EXPORT_DIR = os.path.join(REPO_PATH, "ida_exports_m")
+EXPORT_DIR = os.path.join(REPO_PATH, "ida_exports_u")
 LOG_DIR = os.path.join(EXPORT_DIR, "logs")
 os.makedirs(EXPORT_DIR, exist_ok=True)
 os.makedirs(LOG_DIR, exist_ok=True)
